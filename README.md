@@ -1,2 +1,5 @@
 # hello-world
-This is a Repository to learn new stuff about GitHub.
+
+Hello!
+
+I am Valentino. I like to code with friends. I hope this is enought.
